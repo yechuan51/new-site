@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render unchanged 1`] = `
+<div>
+  <nav
+    class="container"
+  >
+    <p
+      class="title"
+    >
+      <a
+        href="/"
+      >
+        My website
+      </a>
+    </p>
+    <ul
+      class="navItemsList"
+    >
+      <li>
+        <a
+          href="/item1"
+        >
+          Item 1
+        </a>
+      </li>
+      <li>
+        <a
+          href="/item2"
+        >
+          Item 2
+        </a>
+      </li>
+    </ul>
+  </nav>
+</div>
+`;
